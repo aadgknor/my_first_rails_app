@@ -1,0 +1,15 @@
+current directory: /home/k8/odin-project/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/home/k8/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20180731-4720-cdp07b.rb extconf.rb
+creating Makefile
+
+current directory: /home/k8/odin-project/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/k8/odin-project/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/k8/odin-project/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20180731-4720-18rfakk/bindex
